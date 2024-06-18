@@ -1,5 +1,5 @@
 # Pong
  jogo pong feito com a biblioteca P5.js 
 
- ![](https://github.com/markbarm/Pong/assets/78753776/59388c39-1f06-45af-9ff9-cd74ff059b27)
+ ![](https://cdn3.gnarususercontent.com.br/alurastart-555-pong/aula5/aula5.gif)
 
